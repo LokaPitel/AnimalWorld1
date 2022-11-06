@@ -1,17 +1,17 @@
 ﻿  DAYW.cpp
-C:\Users\Philosopher\source\repos\DAYW\KeyboardUtility.h(32,136): warning C4244: '=': conversion from '_Rep' to 'int', possible loss of data
+C:\Users\Philosopher\source\repos\DAYW - SAVELOAD\KeyboardUtility.h(32,136): warning C4244: '=': conversion from '_Rep' to 'int', possible loss of data
           with
           [
               _Rep=__int64
           ]
-C:\Users\Philosopher\source\repos\DAYW\Position.h(24,19): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
-C:\Users\Philosopher\source\repos\DAYW\Position.h(29,19): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
-C:\Users\Philosopher\source\repos\DAYW\SetUtility.h(91,1): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
-C:\Users\Philosopher\source\repos\DAYW\SetUtility.h(105,1): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
-C:\Users\Philosopher\source\repos\DAYW\View.h(63,1): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
-C:\Users\Philosopher\source\repos\DAYW\View.h(194,1): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
-C:\Users\Philosopher\source\repos\DAYW\Controller.h(239,4): warning C4390: ';': empty controlled statement found; is this the intent?
-C:\Users\Philosopher\source\repos\DAYW\Controller.h(502,11): warning C4553: '==': result of expression not used; did you intend '='?
-C:\Users\Philosopher\source\repos\DAYW\Controller.h(677,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
-C:\Users\Philosopher\source\repos\DAYW\SetUtility.h(115): warning C4715: 'SetUtility::randomFrom': not all control paths return a value
-  DAYW.vcxproj -> C:\Users\Philosopher\source\repos\DAYW\x64\Debug\DAYW.exe
+C:\Users\Philosopher\source\repos\DAYW - SAVELOAD\Position.h(24,19): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+C:\Users\Philosopher\source\repos\DAYW - SAVELOAD\Position.h(29,19): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+C:\Users\Philosopher\source\repos\DAYW - SAVELOAD\SetUtility.h(91,1): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Philosopher\source\repos\DAYW - SAVELOAD\SetUtility.h(105,1): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Philosopher\source\repos\DAYW - SAVELOAD\View.h(63,1): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Philosopher\source\repos\DAYW - SAVELOAD\View.h(194,1): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Philosopher\source\repos\DAYW - SAVELOAD\Controller.h(239,4): warning C4390: ';': empty controlled statement found; is this the intent?
+C:\Users\Philosopher\source\repos\DAYW - SAVELOAD\Controller.h(502,11): warning C4553: '==': result of expression not used; did you intend '='?
+C:\Users\Philosopher\source\repos\DAYW - SAVELOAD\Controller.h(677,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Philosopher\source\repos\DAYW - SAVELOAD\SetUtility.h(115): warning C4715: 'SetUtility::randomFrom': not all control paths return a value
+  DAYW.vcxproj -> C:\Users\Philosopher\source\repos\DAYW - SAVELOAD\x64\Debug\DAYW.exe

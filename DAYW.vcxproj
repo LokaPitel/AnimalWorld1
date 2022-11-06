@@ -134,6 +134,7 @@
     <ClInclude Include="Entity.h" />
     <ClInclude Include="EntityState.h" />
     <ClInclude Include="Food.h" />
+    <ClInclude Include="ViewExt.h" />
     <ClInclude Include="MathUtility.h" />
     <ClInclude Include="Mountain.h" />
     <ClInclude Include="ViewState.h" />

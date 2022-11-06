@@ -3,6 +3,8 @@
 #include "View.h"
 #include "Controller.h"
 
+#include "ViewExt.h"
+
 class SimulationApp
 {
 public:
@@ -13,7 +15,7 @@ public:
 		KeyboardUtility::init(100);
 
 		Model model(20, 20);
-		View view(&model);
+		ViewExt view(&model);
 		view.initMenues();
 
 		Controller controller(&model, &view);

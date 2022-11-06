@@ -1,1 +1,2 @@
 C:\Users\Philosopher\source\repos\DAYW\x64\Debug\DAYW.exe
+C:\Users\Philosopher\source\repos\DAYW - SAVELOAD\x64\Debug\DAYW.exe
