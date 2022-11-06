@@ -62,6 +62,9 @@
     <ClInclude Include="MathUtility.h">
       <Filter>Source Files</Filter>
     </ClInclude>
+    <ClInclude Include="ControllerExt.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
     <ClInclude Include="Mountain.h">
       <Filter>Source Files</Filter>
     </ClInclude>

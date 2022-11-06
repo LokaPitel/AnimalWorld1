@@ -134,8 +134,9 @@
     <ClInclude Include="Entity.h" />
     <ClInclude Include="EntityState.h" />
     <ClInclude Include="Food.h" />
-    <ClInclude Include="MathUtility.h" />
+    <ClInclude Include="ControllerExt.h" />
     <ClInclude Include="Mountain.h" />
+    <ClInclude Include="MathUtility.h" />
     <ClInclude Include="ViewState.h" />
     <ClInclude Include="SetUtility.h" />
     <ClInclude Include="Map.h" />

@@ -13,5 +13,6 @@ C:\Users\Philosopher\source\repos\DAYW\View.h(194,1): warning C4267: 'return': c
 C:\Users\Philosopher\source\repos\DAYW\Controller.h(239,4): warning C4390: ';': empty controlled statement found; is this the intent?
 C:\Users\Philosopher\source\repos\DAYW\Controller.h(502,11): warning C4553: '==': result of expression not used; did you intend '='?
 C:\Users\Philosopher\source\repos\DAYW\Controller.h(677,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Philosopher\source\repos\DAYW\ControllerExt.h(18,1): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
 C:\Users\Philosopher\source\repos\DAYW\SetUtility.h(115): warning C4715: 'SetUtility::randomFrom': not all control paths return a value
   DAYW.vcxproj -> C:\Users\Philosopher\source\repos\DAYW\x64\Debug\DAYW.exe

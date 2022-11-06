@@ -3,6 +3,8 @@
 #include "View.h"
 #include "Controller.h"
 
+#include "ControllerExt.h"
+
 class SimulationApp
 {
 public:
@@ -16,7 +18,7 @@ public:
 		View view(&model);
 		view.initMenues();
 
-		Controller controller(&model, &view);
+		ControllerExt controller(&model, &view);
 
 		while (true)
 		{
